@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\weather 1\weather 1\bin\Debug\weather 1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\weather 1\weather 1\bin\Debug\weather 1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\weather 1\weather 1\bin\Debug\weather 1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\weather 1\weather 1\obj\Debug\weather 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\weather 1\weather 1\obj\Debug\weather 1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\weather 1\weather 1\obj\Debug\weather 1.pdb
